@@ -7,14 +7,14 @@ Currently pursuing **B.Tech in Electronics & Communication Engineering** with a 
 
 ## 🔭 About Me
 - Passionate about **machine learning**, **full-stack development**, and **AI-powered solutions**.  
-- Experienced in **Python, C++, Java, JavaScript**, and cloud-based development.  
+- Experienced in **Python, C++** and cloud-based development.  
 - I enjoy building **projects that solve real-world problems**, from ML-powered healthcare systems to scalable web apps.  
 - Always learning new technologies and improving my coding skills.  
 
 ---
 
 ## 💻 Skills
-**Languages:** Python, C, C++, Java, JavaScript, SQL, HTML, CSS, Shell Scripting  
+**Languages:** Python, C, C++, SQL, HTML, CSS, Shell Scripting  
 **Web & Full-Stack:** React, Node.js, FastAPI, REST APIs, MongoDB, PostgreSQL, Postman  
 **Libraries & Frameworks:** NumPy, Pandas, Matplotlib, Scikit-learn, TensorFlow, Keras, OpenCV, NLTK, SpaCy  
 **Tools & Platforms:** Git, Linux, VS Code, CI/CD, AWS, RASA, MATLAB, CST Studio, SCADA  
