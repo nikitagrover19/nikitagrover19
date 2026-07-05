@@ -29,7 +29,7 @@ Currently pursuing **B.Tech in Electronics & Communication Engineering** with a 
 ## 📫 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/nikita-n-grover/)  
 - [Email](mailto:nikitagrover1909@gmail.com)  
-- [Portfolio / Resume](https://docs.google.com/document/d/1WG8w4r4v8LSbAmj8Ohr1hdH1Th2j0iSODXifRTmCbbY/edit?usp=sharing)  
+- [Portfolio / Resume](https://docs.google.com/document/d/1VzYNFXIw-7xZqpp6_jhFfo3f0mAIUPrV17LrsQMReCo/edit?usp=sharing)  
 
 ---
 
